@@ -1,0 +1,11 @@
+C:\Users\DNS\Documents\GitHub\Introverted-Bugs\IntrovertedBugsConsoleApp\bin\Debug\netcoreapp3.1\IntrovertedBugsConsoleApp.exe
+C:\Users\DNS\Documents\GitHub\Introverted-Bugs\IntrovertedBugsConsoleApp\bin\Debug\netcoreapp3.1\IntrovertedBugsConsoleApp.deps.json
+C:\Users\DNS\Documents\GitHub\Introverted-Bugs\IntrovertedBugsConsoleApp\bin\Debug\netcoreapp3.1\IntrovertedBugsConsoleApp.runtimeconfig.json
+C:\Users\DNS\Documents\GitHub\Introverted-Bugs\IntrovertedBugsConsoleApp\bin\Debug\netcoreapp3.1\IntrovertedBugsConsoleApp.runtimeconfig.dev.json
+C:\Users\DNS\Documents\GitHub\Introverted-Bugs\IntrovertedBugsConsoleApp\bin\Debug\netcoreapp3.1\IntrovertedBugsConsoleApp.dll
+C:\Users\DNS\Documents\GitHub\Introverted-Bugs\IntrovertedBugsConsoleApp\bin\Debug\netcoreapp3.1\IntrovertedBugsConsoleApp.pdb
+C:\Users\DNS\Documents\GitHub\Introverted-Bugs\IntrovertedBugsConsoleApp\obj\Debug\netcoreapp3.1\IntrovertedBugsConsoleApp.csprojAssemblyReference.cache
+C:\Users\DNS\Documents\GitHub\Introverted-Bugs\IntrovertedBugsConsoleApp\obj\Debug\netcoreapp3.1\IntrovertedBugsConsoleApp.AssemblyInfoInputs.cache
+C:\Users\DNS\Documents\GitHub\Introverted-Bugs\IntrovertedBugsConsoleApp\obj\Debug\netcoreapp3.1\IntrovertedBugsConsoleApp.AssemblyInfo.cs
+C:\Users\DNS\Documents\GitHub\Introverted-Bugs\IntrovertedBugsConsoleApp\obj\Debug\netcoreapp3.1\IntrovertedBugsConsoleApp.dll
+C:\Users\DNS\Documents\GitHub\Introverted-Bugs\IntrovertedBugsConsoleApp\obj\Debug\netcoreapp3.1\IntrovertedBugsConsoleApp.pdb

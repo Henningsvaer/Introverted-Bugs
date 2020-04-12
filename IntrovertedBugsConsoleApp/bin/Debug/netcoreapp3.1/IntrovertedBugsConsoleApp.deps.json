@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "IntrovertedBugsConsoleApp/1.0.0": {
+        "runtime": {
+          "IntrovertedBugsConsoleApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IntrovertedBugsConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
